@@ -64,7 +64,7 @@ slider.oninput = function () {
     bar4.classList.add("strong");
   }
 };
-
+//added dynamic updation of strength bar
 function handleInputChange(e) {
   let target = e.target;
 
